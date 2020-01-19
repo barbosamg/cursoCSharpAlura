@@ -1,0 +1,7 @@
+C:\Users\mateu\Documents\cursos\alura\c#\AluraCursos\ForEncadeado\bin\Debug\ForEncadeado.exe.config
+C:\Users\mateu\Documents\cursos\alura\c#\AluraCursos\ForEncadeado\bin\Debug\ForEncadeado.exe
+C:\Users\mateu\Documents\cursos\alura\c#\AluraCursos\ForEncadeado\bin\Debug\ForEncadeado.pdb
+C:\Users\mateu\Documents\cursos\alura\c#\AluraCursos\ForEncadeado\obj\Debug\ForEncadeado.csprojAssemblyReference.cache
+C:\Users\mateu\Documents\cursos\alura\c#\AluraCursos\ForEncadeado\obj\Debug\ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\cursos\alura\c#\AluraCursos\ForEncadeado\obj\Debug\ForEncadeado.exe
+C:\Users\mateu\Documents\cursos\alura\c#\AluraCursos\ForEncadeado\obj\Debug\ForEncadeado.pdb

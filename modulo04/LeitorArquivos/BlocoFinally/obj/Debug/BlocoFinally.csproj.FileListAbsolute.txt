@@ -1,0 +1,7 @@
+C:\Users\mateu\Documents\cursos\alura\c#\modulo04\LeitorArquivos\BlocoFinally\bin\Debug\BlocoFinally.exe.config
+C:\Users\mateu\Documents\cursos\alura\c#\modulo04\LeitorArquivos\BlocoFinally\bin\Debug\BlocoFinally.exe
+C:\Users\mateu\Documents\cursos\alura\c#\modulo04\LeitorArquivos\BlocoFinally\bin\Debug\BlocoFinally.pdb
+C:\Users\mateu\Documents\cursos\alura\c#\modulo04\LeitorArquivos\BlocoFinally\obj\Debug\BlocoFinally.csprojAssemblyReference.cache
+C:\Users\mateu\Documents\cursos\alura\c#\modulo04\LeitorArquivos\BlocoFinally\obj\Debug\BlocoFinally.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\cursos\alura\c#\modulo04\LeitorArquivos\BlocoFinally\obj\Debug\BlocoFinally.exe
+C:\Users\mateu\Documents\cursos\alura\c#\modulo04\LeitorArquivos\BlocoFinally\obj\Debug\BlocoFinally.pdb
